@@ -1,0 +1,2 @@
+# Ngx-admin
+angular
